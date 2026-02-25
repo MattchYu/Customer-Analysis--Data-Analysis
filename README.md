@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis (In Progress)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a complete, industry-style end-to-end data analytics workflow designed to mirror real-world analyst responsibilities. It covers every major phase of the analytics lifecycle—from data cleaning and modeling to insight generation, visualization, and reporting.
 
@@ -8,7 +8,7 @@ The goal of this project is to analyze customer shopping behavior data to uncove
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and preprocess raw customer shopping data
 * Perform exploratory data analysis (EDA)
@@ -19,7 +19,7 @@ The goal of this project is to analyze customer shopping behavior data to uncove
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 **File:** `customer_shopping_behavior.csv` From Amlan Mohanty 
 
@@ -36,7 +36,7 @@ This dataset is used to simulate real-world retail analytics scenarios.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Python** – Data cleaning, analysis, and modeling
 * **Pandas / NumPy** – Data manipulation
@@ -47,7 +47,7 @@ This dataset is used to simulate real-world retail analytics scenarios.
 
 ---
 
-## 📊 Current Project Structure
+##  Current Project Structure
 
 ```
 CustomerAnalytics/
@@ -60,7 +60,7 @@ CustomerAnalytics/
 
 ---
 
-## 🔎 Analysis Being Performed
+##  Analysis Being Performed
 
 Examples of business questions explored:
 
@@ -74,7 +74,7 @@ More analysis and modeling will be added as the project progresses.
 
 ---
 
-## 🚧 Project Status
+##  Project Status
 
 **Status:** In Progress
 
@@ -88,7 +88,7 @@ Planned next steps:
 
 ---
 
-## 📈 Example Skills Demonstrated
+##  Example Skills Demonstrated
 
 * Data cleaning and preprocessing
 * SQL query development
@@ -98,7 +98,7 @@ Planned next steps:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Matthew Yu
 Systems and Computing Engineering Student
