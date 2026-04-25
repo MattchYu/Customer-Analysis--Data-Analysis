@@ -73,7 +73,7 @@ Examples of business questions explored:
 
 ## Sheet #1 - Customer Analysis Dashboard 
 
-**<img width="1173" height="645" alt="image" src="https://github.com/user-attachments/assets/a68e3adb-2112-414e-96d2-bade86aeaf63" />**
+<img width="1399" height="774" alt="image" src="https://github.com/user-attachments/assets/9e2bff45-3920-4d51-bb4f-df1afc155a49" />
 
 ## Sheet #2 - Raw Data Analysis
 
