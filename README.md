@@ -70,23 +70,6 @@ Examples of business questions explored:
 * High-value customer identification
 * Trends across product categories
 
-More analysis and modeling will be added as the project progresses.
-
----
-
-##  Project Status
-
-**Status:** In Progress
-
-Planned next steps:
-
-* Add customer segmentation (clustering)
-* Improve dashboard visuals in Power BI
-* Build predictive model for purchase behavior
-* Optimize SQL queries for performance
-* Write final business report
-
----
 
 ## Sheet #2 - Customer Analysis Dashboard 
 
