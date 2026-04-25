@@ -88,6 +88,13 @@ Planned next steps:
 
 ---
 
+## Sheet #2 - Customer Analysis Dashboard (In progress...)
+
+## Sheet #2 - Raw Data Analysis
+
+<img width="1421" height="783" alt="image" src="https://github.com/user-attachments/assets/4804c991-51aa-4c02-9222-eb1418a19194" />
+
+
 ##  Example Skills Demonstrated
 
 * Data cleaning and preprocessing
