@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis (In Progress)
+# Customer Shopping Behavior Analysis
 
 ##  Project Overview
 
